@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		 int x = 5;
-	     int y = 2;
+	     int y = 4;
 	     Subtraction s = new Subtraction();
 	     String result = s.subtract(x, y);
 	     System.out.println(result);
